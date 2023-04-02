@@ -1,5 +1,5 @@
 VRP variants
-
+No longer being updated
 A map showing the relationship between common VRP subproblems.
 Several variations and specializations of the vehicle routing problem exist:
 
